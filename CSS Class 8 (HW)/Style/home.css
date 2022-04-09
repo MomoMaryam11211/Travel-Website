@@ -1,0 +1,50 @@
+video{
+    position:fixed;
+    min-width: 100%;
+    min-height: 100%;
+    right: 0;
+    bottom: 0;
+}
+div{
+    position:relative;
+    margin:0 auto;
+    z-index: 2;
+    text-align: center;
+    margin:150px;
+}
+p{
+    color:cadetblue;
+    background-color:#ffffff;
+    font-weight:bolder;
+    opacity: 80%;
+    padding: 12px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    color:cadetblue;
+    background-color:#ffffff;
+    opacity: 80%;
+    border-radius: 50px;
+    font-weight: bolder;
+    padding: 12px 15px;
+    display:inline-block;
+}
+input:hover{
+    background-color:cadetblue;
+    color:#ffffff;
+
+}
+h1{
+    background-color:#ffffff;
+    color:cadetblue;
+    opacity: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    background-color:cadetblue;
+    color:#ffffff;
+}
+p:hover{
+    background-color:cadetblue;
+    color:#ffffff;
+}

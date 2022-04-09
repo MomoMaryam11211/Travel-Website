@@ -1,0 +1,36 @@
+.about{
+    padding: 20px;
+    text-align: center;
+    background-color: #474e5d;
+    color: #ffffff;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html{
+    border: 12px solid #f2f2f2;
+    box-sizing: border-box;
+    background-color: #474e5d;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.questions{
+    padding: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #474e5d;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    color:#474e5d;
+    background-color:#ffffff;
+    border-radius: 50px;
+    font-weight: bolder;
+    padding: 12px 15px;
+    display:inline-block;
+}
